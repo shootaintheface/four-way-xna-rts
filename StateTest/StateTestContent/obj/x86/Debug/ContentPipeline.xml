@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2013-02-16T11:25:00.9240324-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainTextures\dirttile.png</Source>
+      <Name>TerrainTextures\dirttile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\TerrainTextures\dirttile.xnb</Output>
+      <Time>2013-02-18T14:27:27.244-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainTextures\grasstile.png</Source>
+      <Name>TerrainTextures\grasstile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\TerrainTextures\grasstile.xnb</Output>
+      <Time>2013-02-18T14:27:27.29-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainTextures\snowtile.png</Source>
+      <Name>TerrainTextures\snowtile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\TerrainTextures\snowtile.xnb</Output>
+      <Time>2013-02-18T14:27:27.292-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainTextures\watertile.png</Source>
+      <Name>TerrainTextures\watertile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\TerrainTextures\watertile.xnb</Output>
+      <Time>2013-02-18T14:27:27.293-06:00</Time>
+    </Item>
+    <Item>
+      <Source>KC_Pong.png</Source>
+      <Name>KC_Pong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\KC_Pong.xnb</Output>
+      <Time>2013-02-18T18:50:49.513-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreen\ActiveArtillery.JPG</Source>
+      <Name>GameScreen\ActiveArtillery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\GameScreen\ActiveArtillery.xnb</Output>
+      <Time>2013-02-16T20:06:16.2980324-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreen\Artillery_Gun_Shooting.jpg</Source>
+      <Name>GameScreen\Artillery_Gun_Shooting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\GameScreen\Artillery_Gun_Shooting.xnb</Output>
+      <Time>2013-02-16T20:06:29.2650324-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GameScreen\CoastGun.jpg</Source>
+      <Name>GameScreen\CoastGun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\GameScreen\CoastGun.xnb</Output>
+      <Time>2013-02-18T12:45:40.725-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UtilityTextures\RedDot.png</Source>
+      <Name>UtilityTextures\RedDot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\UtilityTextures\RedDot.xnb</Output>
+      <Time>2013-02-18T20:47:41.863-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UtilityTextures\SBox.png</Source>
+      <Name>UtilityTextures\SBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\Documents\Visual Studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\UtilityTextures\SBox.xnb</Output>
+      <Time>2013-02-18T22:11:31.818-06:00</Time>
+    </Item>
+    <Item>
+      <Source>CPU_Pong.png</Source>
+      <Name>CPU_Pong</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\CPU_Pong.xnb</Output>
+      <Time>2013-02-20T14:05:55.9762264-06:00</Time>
+    </Item>
+    <Item>
+      <Source>UtilityTextures\RedBox.png</Source>
+      <Name>UtilityTextures\RedBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\UtilityTextures\RedBox.xnb</Output>
+      <Time>2013-02-21T11:47:12.9372378-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Build.png</Source>
+      <Name>Build</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\Build.xnb</Output>
+      <Time>2013-02-21T20:35:45.5182378-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Upgrade.png</Source>
+      <Name>Upgrade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\Upgrade.xnb</Output>
+      <Time>2013-02-21T20:35:45.5462378-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\KC\documents\visual studio 2010\Projects\StateTest\StateTest\StateTest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-12T13:07:38.6450946-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

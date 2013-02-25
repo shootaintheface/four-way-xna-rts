@@ -1,0 +1,1 @@
+c:\users\kc\documents\visual studio 2010\Projects\StateTest\StateTest\StateTestContent\obj\x86\Debug\ResolveAssemblyReference.cache
